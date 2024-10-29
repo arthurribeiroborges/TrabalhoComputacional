@@ -27,7 +27,7 @@ header {
   align-items: center;
   justify-content:space-between;
   padding: 10px 20px;
-  background-color: #2e3b4e;
+  background-color: #2a7de9de;
   color: #fff;
 }
 
@@ -135,7 +135,7 @@ footer {
   display: grid;
   place-items: center; /* Centraliza o conteúdo no centro do grid */
   height: auto;
-  background-color: #2e3b4e;
+  background-color: #2a7de9de;
   color: white;
   box-shadow: 0px 0px 1px #ffffff;
   text-align: center; /* Centraliza o texto horizontalmente */
